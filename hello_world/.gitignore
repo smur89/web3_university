@@ -1,0 +1,19 @@
+target/
+build/
+dist/
+.idea/
+.venv/
+
+project/metals.sbt
+.bloop/*
+.metals/*
+.bsp/
+
+# DotEnv
+.env
+
+# Hardhat
+artifacts/
+cache/
+deployments/
+node_modules/
